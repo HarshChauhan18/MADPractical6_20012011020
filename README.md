@@ -12,5 +12,7 @@ AIM: Create an Video player application by following below instructions.
 5.Add Internet Permssion in Manifest file
 
 Output :
+
 ![image](https://user-images.githubusercontent.com/107744227/193049830-b605d71a-b3df-4578-8867-04fbae5f5206.png)
+
 ![image](https://user-images.githubusercontent.com/107744227/193049929-5517d773-b8d7-47ab-a180-e3c80ec35fa8.png)
